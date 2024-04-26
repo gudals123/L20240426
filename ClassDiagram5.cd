@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQEASoEECWAAkAEAICgAAmIEgQAAkgAARAAAAAAAEQ=</HashCode>
+      <FileName>Assets\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAirState" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerAirState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAnimationTriggers" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerAnimationTriggers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerDashState" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerDashState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerGroundedState" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerGroundedState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerIdleState" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerIdleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerJumpState" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerJumpState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMoveState" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerMoveState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPrimaryAttack" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerPrimaryAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerState" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIYAAAAAAACAAAAEgAAAAAAAQAAEAAABIAAAAAAEAAA=</HashCode>
+      <FileName>Assets\PlayerState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStateMachine">
+    <Position X="9.25" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABQAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerStateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWallJumpState" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerWallJumpState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWallSlideState" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerWallSlideState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
